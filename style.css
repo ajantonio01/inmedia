@@ -1,0 +1,32 @@
+li button {
+	height: 135px;
+	width: 145px;
+	font-family: Arial;
+	margin-top: 20px;
+	font-size: 28px;
+}
+
+
+.goldAndGrass {
+	height: 35px; 
+	width: 40px;
+}
+
+#forJumbotron {
+	background-color: #d7ec9b;
+}
+
+h2 {
+	font-family: tahoma;
+}
+
+#Account {
+	height: 200px;
+	width: 200px;
+}
+
+#forTable {
+	height: 700px;
+	width: 550px;
+	border: 10px inset lightgreen;
+}
