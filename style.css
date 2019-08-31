@@ -28,5 +28,45 @@ h2 {
 #forTable {
 	height: 700px;
 	width: 550px;
-	border: 10px inset lightgreen;
+	border-radius: 4px;
+}
+
+#h1size {
+	font-size: 90px;
+}
+
+#psize {
+	font-size: 20px;
+}
+
+@media only screen and (min-width: 400px){
+.pMedia {
+	margin-right: 75px;
+	}
+}
+
+#passwordSize {
+	font-size: 15px;
+}
+
+#forTableLogin {
+	height: 561px;
+	width: 550px;
+}
+
+@media only screen and (min-width: 400px){
+.forForms {
+		width: 250px;
+	}
+}
+
+.grass {
+	height: 70px; 
+	width: 75px;
+}
+
+.verticalLine {
+	border-style: groove;
+	border-width: 1px;
+
 }
